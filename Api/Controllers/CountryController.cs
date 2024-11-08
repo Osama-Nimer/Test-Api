@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using BissnessLayer;
+using Api.Model;
 
 namespace Api.Controllers
 {
